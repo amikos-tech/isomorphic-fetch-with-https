@@ -1,0 +1,16 @@
+{
+  "name": "isomorphic-fetch-with-https",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Trayan Azarov <trayan.azarov@amikos.tech>",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
